@@ -1,7 +1,6 @@
-export const perguntas = [
 
+export const perguntas = [
     {
-        
         enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
@@ -14,8 +13,7 @@ export const perguntas = [
                 texto: "Isso é maravilhoso!",
                 afirmacao: ["Quis saber como usar IA no seu dia a dia.",
                     "Foi atrás de vídeos, artigos e mais informaçõe sobre como utilizar essa tecnologia."
-                ],
-                proxima: 1,
+                ]
             }
         ]
     },
@@ -34,8 +32,7 @@ export const perguntas = [
                 afirmacao: ["Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
-                ],
-                proxima: 2,
+                ]
             }
         ]
     },
@@ -52,8 +49,7 @@ export const perguntas = [
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao: ["Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
-                ],
-                proxima: 3,
+                ]
             }
         ]
     },
@@ -71,8 +67,7 @@ export const perguntas = [
                 afirmacao: ["Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
                     "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
                     "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
-                ],
-                proxima: 4,
+                ]
             }
         ]
     },
